@@ -1,0 +1,8 @@
+eel
+SpeechRecognition
+openai
+pyaudio
+transformers
+torch
+tensorflow
+tf-keras
